@@ -4,32 +4,15 @@
 🔹 Passionate about coding, problem-solving, and building projects.
 🔹 Currently exploring frontend Development and Data Structure abd Algorithms.
 
-🚀 Skills & Tech Stack
-
 ## 🚀 Skills & Tech Stack
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin: 10px; filter: drop-shadow(0 0 8px #00f)">
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px; filter: drop-shadow(0 0 8px #FFD43B)">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin: 10px; filter: drop-shadow(0 0 8px #E34F26)">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 10px; filter: drop-shadow(0 0 8px #1572B6)">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px; filter: drop-shadow(0 0 8px #F7DF1E)">
-  </a>
-  <a href="https://www.pygame.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pygame_logo.svg/1200px-Pygame_logo.svg.png" alt="Pygame" width="60" height="60" style="margin: 10px; filter: drop-shadow(0 0 8px #00FF00)">
-  </a>
-  <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/rsz_tkinter.png" alt="Tkinter" width="60" height="60" style="margin: 10px; filter: drop-shadow(0 0 8px #9cf)">
-  </a>
-</p>
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Pygame](https://img.shields.io/badge/Pygame-%2300FF00.svg?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-%239cf.svg?style=for-the-badge&logo=python&logoColor=black)
 
 
 🔥 Projects:

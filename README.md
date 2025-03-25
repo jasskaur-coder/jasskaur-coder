@@ -24,6 +24,7 @@
 💻DATA STRUCTURE AND ALGORITHMS
 
 📫 Connect with Me
+
 💼 LinkedIn  - https://www.linkedin.com/in/jaspreet-kaur-09a077307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 📊 Resume - https://drive.google.com/file/d/1X6b4OUXXwZp2glAZsuCtM4QAvFsFFBk-/view?usp=drivesdk

@@ -57,7 +57,7 @@
     <img src="https://img.icons8.com/color/48/google-logo.png" alt="Google Dev" width="40" height="40"/>
 </a>
 
-<a href="https://leetcode.com/jaspreet12" target="_blank">
+<a href="https://leetcode.com/u/120420/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
 </a>
 

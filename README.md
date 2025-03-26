@@ -2,7 +2,7 @@
 ## 💻 BTech Student
 
 ### 🔹 Passionate about coding, problem-solving, and building projects.
-### 🔹 Currently exploring frontend Development and Data Structure abd Algorithms.
+### 🔹 Currently exploring frontend Development and Data Structure and Algorithms.
 
 # 🚀 Skills & Tech Stack  
 <p align="left">  

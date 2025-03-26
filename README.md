@@ -4,7 +4,7 @@
 🔹 Passionate about coding, problem-solving, and building projects.
 🔹 Currently exploring frontend Development and Data Structure abd Algorithms.
 
-### 🚀 Skills & Tech Stack  
+# 🚀 Skills & Tech Stack  
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50" />  
   
@@ -29,7 +29,7 @@
 
 
 
-🔥 Projects:
+# 🔥 Projects:
 
 🎯 Guessing Game with Pygame – Riddle-based game with animations and a countdown bar.
 
@@ -43,7 +43,7 @@
 
 💻DATA STRUCTURE AND ALGORITHMS
 
-📫 Connect with Me  
+# 📫 Connect with Me  
 
 <a href="https://www.linkedin.com/in/jaspreet-kaur-09a077307" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>

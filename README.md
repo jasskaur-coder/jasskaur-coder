@@ -1,8 +1,8 @@
 # 👋 Hi there! I'm Jaspreet Kaur 
-💻 BTech Student
+## 💻 BTech Student
 
-🔹 Passionate about coding, problem-solving, and building projects.
-🔹 Currently exploring frontend Development and Data Structure abd Algorithms.
+### 🔹 Passionate about coding, problem-solving, and building projects.
+### 🔹 Currently exploring frontend Development and Data Structure abd Algorithms.
 
 # 🚀 Skills & Tech Stack  
 <p align="left">  

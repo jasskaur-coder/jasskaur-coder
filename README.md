@@ -37,7 +37,7 @@
 
 📊 Expense Tracker (Python) – CSV-based tracker with filtering and visualization.
 
-🌱 Currently Learning
+# 🌱 Currently Learning
 
 ⚙️ Building interactive Pygame projects and WEB DEVELOPMENT
 
